@@ -57,7 +57,7 @@
     "jsdom": "^13.0.0",
     "pretty-bytes": "^5.1.0",
     "react": "^16.7.0",
-    "react-dom": "^16.5.2",
+    "react-dom": "^16.7.0",
     "react-test-renderer": "^16.5.2",
     "regenerator-runtime": "^0.13.1",
     "rollup": "^0.67.0",
